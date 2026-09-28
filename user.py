@@ -1,0 +1,6 @@
+name = input("Введите имя: ")
+age = int(input("Введите возраст: "))
+city = input("Введите город: ")
+print(f"Имя: {name}")
+print(f"Возраст: {age}")
+print(f"Город: {city}")
